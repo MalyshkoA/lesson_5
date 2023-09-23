@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-print('1')
+print('2')
 
 api_token = os.getenv('API_TOKEN')
 
