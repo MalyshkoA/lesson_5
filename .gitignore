@@ -1,8 +1,0 @@
-.coverage
-.dockerignore
-.env
-/.help
-/app_data
-.gitignore
-.DS_Store
-/__pycache__
