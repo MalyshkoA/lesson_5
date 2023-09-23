@@ -5,3 +5,4 @@
 /app_data
 .gitignore
 .DS_Store
+/__pycache__
