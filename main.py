@@ -10,6 +10,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+print('1')
+
 api_token = os.getenv('API_TOKEN')
 
 bot = Bot(token=api_token)
