@@ -1,0 +1,5 @@
+.coverage
+.dockerignore
+.env
+/.help
+/app_data
